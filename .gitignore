@@ -1,0 +1,14 @@
+/IUV/
+*.jpg
+/predict/
+/test/
+/sample_mask_image/
+/sample_original_image/
+/sample_output/
+/sample_segmented_image/
+/model/
+/train_data/
+/.idea/
+/_pycache_/
+/build/
+/dist/
