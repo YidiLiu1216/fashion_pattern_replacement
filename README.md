@@ -44,6 +44,16 @@ The details requirement of [Segmentation](https://github.com/PeikeLi/Self-Correc
 
 Prepare data
 -------------
+1. Put input image under data/input/
+2. Run segementation program and put result under data/seg/
+3. Run
+```
+python preparedata.py
+```
+The result will under data/mask/
+4. Run densepose and put result under data/IUV/
+
+
 Train
 -------------
 Tests
