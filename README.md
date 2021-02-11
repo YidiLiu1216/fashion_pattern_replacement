@@ -12,7 +12,8 @@ Table of Contents
 
 Introduction
 -------------
-The pattern_replacement program replace  
+The pattern_replacement program replace input cloth with given pattern based on cloth trend. This process can remove original pattern on cloth.
+
 ![input](/data/demo_image/demo.png)
 
 Installation
