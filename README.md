@@ -42,12 +42,13 @@ The main requirement of these programs:
 
 The details requirement of [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) and [Densepose](https://github.com/facebookresearch/DensePose) can also be found in the link.
 
-Preparedata
+Prepare data
 -------------
 Train
 -------------
 Tests
 -------------
+'''  a '''
 
 If you want to to prepare your own data, see [Preparedata](#Preparedata)
 
