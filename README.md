@@ -19,17 +19,17 @@ The pattern_replacement program replace input cloth with given pattern based on 
 Installation
 ------------- 
 Requirements shortlists:
-Pattern replacement program
-Prepare data
+- Pattern replacement program
+- Prepare data
 
-Run demo on given data:
+Run demo on given data requires:
 
 - NVIDIA GPU, Python3
 - Tensorflow-gpu
 - various standard Python packages
 
 Notes:
-- The program was tested on tensorflow-gpu 2.3.1 with cuda 10.1 and cudnn
+- The program was tested on tensorflow-gpu 2.3.1 with cuda 10.1 and cudnn 7.6
 - The program requires your opencv-contrib-python and opencv-python in the same version 
 
 Prepare Your own data:
@@ -37,6 +37,8 @@ Prepare Your own data:
 To run you own data on this demo, you will need to prepare the [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) result of image, and run [Densepose](https://github.com/facebookresearch/DensePose) to get the human body trend information.
 
 The requirement of these programs:
+
+The details requirement of [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) and [Densepose](https://github.com/facebookresearch/DensePose) can also be found in the link.
 
 Preparedata
 -------------
