@@ -48,7 +48,16 @@ Train
 -------------
 Tests
 -------------
+If you want to run given demo, just run:
+```
+python predict.py
+```
+And you will find gray_scale result in data/output_gray/ and finan result in data/output_final.
 
+To use your own data:
+1. Put the input images under data/input/
+2. [prepare data](#Preparedata) and put mask under data/mask, IUV images under data/images
+3. run
 ```
 python predict.py
 ```
