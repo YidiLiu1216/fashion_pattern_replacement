@@ -32,7 +32,7 @@ Notes:
 - The program was tested on tensorflow-gpu 2.3.1 with cuda 10.1 and cudnn 7.6
 - The program requires your opencv-contrib-python and opencv-python in the same version 
 
-**Prepare Your own data:**
+**Prepare your own data:**
 
 To run you own data on this demo, you will need to prepare the [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) result of image, and run [Densepose](https://github.com/facebookresearch/DensePose) to get the human body trend information.
 
