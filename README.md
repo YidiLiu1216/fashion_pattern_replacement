@@ -57,7 +57,7 @@ The result will under data/mask/
 After done the requirement prepare work:
 Clone repository:
 ```
-git clone https://github.com/facebookresearch/densepose your_path
+git clone https://github.com/aircat1216/fashion_pattern_replacement your_path
 ```
 Install Python dependencies:
 ```
