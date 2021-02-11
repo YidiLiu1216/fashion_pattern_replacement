@@ -26,8 +26,8 @@ Installation
 
 - NVIDIA GPU, Python3
 - Tensorflow-gpu
-- various standard Python packages
-
+- various standard Python packages in requirement.txt
+- Pillow
 Notes:
 - The program was tested on tensorflow-gpu 2.3.1 with cuda 10.1 and cudnn 7.6
 - The program requires your opencv-contrib-python and opencv-python in the same version 
@@ -54,7 +54,15 @@ The result will under data/mask/
 
 4. Run densepose and put result under data/IUV/
 
-
+After done the requirement prepare work:
+Clone repository:
+```
+git clone https://github.com/facebookresearch/densepose your_path
+```
+Install Python dependencies:
+```
+pip install -r your_path/requirements.txt
+```
 Train
 -------------
 Tests
