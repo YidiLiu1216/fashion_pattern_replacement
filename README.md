@@ -54,7 +54,8 @@ The result will under data/mask/
 
 4. Run densepose and put result under data/IUV/
 
-After done the requirement prepare work:
+**After done the requirement prepare work:**
+
 Clone repository:
 ```
 git clone https://github.com/aircat1216/fashion_pattern_replacement your_path
