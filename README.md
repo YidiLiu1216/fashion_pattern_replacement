@@ -5,7 +5,7 @@ Table of Contents
 -------------
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Preparedata](#preparedata)
+3. [Preparedata](#prepare data)
 3. [Train](#train)
 4. [Tests](#tests)
 5. [Datasets](#datasets)
@@ -67,7 +67,7 @@ And you will find gray_scale result in data/output_gray/ and finan result in dat
 
 To use your own data:
 1. Put the input images under data/input/
-2. [prepare data](#Preparedata) and put mask under data/mask, IUV images under data/images
+2. [prepare data](#Prepare data) and put mask under data/mask, IUV images under data/images
 3. run
 ```
 python predict.py
@@ -76,7 +76,7 @@ If you want to select your own model and pattern, run:
 ```
 python predict.py your_model_weight_file_name.h5 your_pattern_path
 ```
-See [Preparedata](#Preparedata) to prepare your own data
+See [Preparedata](#Prepare data) to prepare your own data
 
 Datasets
 -------------
