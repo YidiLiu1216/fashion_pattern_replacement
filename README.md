@@ -52,7 +52,10 @@ Tests
 ```
 python predict.py
 ```
-
+If you want to select your own model and pattern, run:
+```
+python predict.py your_model_weight_file_name.h5 your_pattern_path
+```
 If you want to to prepare your own data, see [Preparedata](#Preparedata)
 
 Datasets
