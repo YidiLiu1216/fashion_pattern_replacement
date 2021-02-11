@@ -5,8 +5,10 @@ Table of Contents
 -------------
 1. [Introduction](#introduction)
 2. [Installation](#installation)
+3. [Preparedata](#preparedata)
 3. [Train](#train)
-4. [Datasets](#datasets)
+4. [Tests](#tests)
+5. [Datasets](#datasets)
 
 Introduction
 -------------
@@ -18,9 +20,12 @@ Requirements:
 - NVIDIA GPU
 - Tensorflow-gpu
 - nmt phrase
-Datasets
+
+Preparedata
 -------------
 Train
 -------------
-Utilise
+Tests
+-------------
+Datasets
 -------------
