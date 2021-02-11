@@ -76,7 +76,7 @@ If you want to select your own model and pattern, run:
 ```
 python predict.py your_model_weight_file_name.h5 your_pattern_path
 ```
-See [Preparedata](#Prepare data) to prepare your own data
+See [Preparedata](#Preparedata) to prepare your own data
 
 Datasets
 -------------
