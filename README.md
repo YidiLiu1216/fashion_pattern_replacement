@@ -34,7 +34,7 @@ Notes:
 
 Prepare Your own data:
 
-To run you own data on this demo, you will need to prepare the segmentation(https://github.com/PeikeLi/Self-Correction-Human-Parsing) result of image, and run Densepose(https://github.com/facebookresearch/DensePose) to get the human body trend information.
+To run you own data on this demo, you will need to prepare the [segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) result of image, and run [Densepose](https://github.com/facebookresearch/DensePose) to get the human body trend information.
 
 Preparedata
 -------------
