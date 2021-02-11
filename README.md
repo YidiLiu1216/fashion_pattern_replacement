@@ -48,7 +48,10 @@ Train
 -------------
 Tests
 -------------
-'''  a '''
+
+```
+python predict.py
+```
 
 If you want to to prepare your own data, see [Preparedata](#Preparedata)
 
