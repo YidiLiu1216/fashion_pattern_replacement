@@ -51,6 +51,7 @@ Prepare data
 python preparedata.py
 ```
 The result will under data/mask/
+
 4. Run densepose and put result under data/IUV/
 
 
