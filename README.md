@@ -36,7 +36,9 @@ Prepare Your own data:
 
 To run you own data on this demo, you will need to prepare the [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) result of image, and run [Densepose](https://github.com/facebookresearch/DensePose) to get the human body trend information.
 
-The requirement of these programs:
+The main requirement of these programs:
+- [Caffe2,COCOAPI](https://github.com/facebookresearch/DensePose/blob/master/INSTALL.md)
+- PyTorch >= 1.4.0
 
 The details requirement of [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) and [Densepose](https://github.com/facebookresearch/DensePose) can also be found in the link.
 
