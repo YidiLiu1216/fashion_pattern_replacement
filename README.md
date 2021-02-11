@@ -12,11 +12,10 @@ Table of Contents
 
 Introduction
 -------------
-<figure class="third">
-    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/78.jpg">
-    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/pattern_3.png">
-    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/78_95.jpg">
+<figure class="half">
+    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/78.jpg"><img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/pattern_3.png"><img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/78_95.jpg">
 </figure>
+
 Installation
 -------------
 Densepose:
