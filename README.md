@@ -5,7 +5,7 @@ Table of Contents
 -------------
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Preparedata](#prepare data)
+3. [Preparedata](#Preparedata)
 3. [Train](#train)
 4. [Tests](#tests)
 5. [Datasets](#datasets)
@@ -42,7 +42,7 @@ The main requirement of these programs:
 
 The details requirement of [Segmentation](https://github.com/PeikeLi/Self-Correction-Human-Parsing) and [Densepose](https://github.com/facebookresearch/DensePose) can also be found in the link.
 
-Prepare data
+Preparedata
 -------------
 1. Put input image under data/input/
 2. Run segementation program and put result under data/seg/
@@ -67,7 +67,7 @@ And you will find gray_scale result in data/output_gray/ and finan result in dat
 
 To use your own data:
 1. Put the input images under data/input/
-2. [prepare data](#Prepare data) and put mask under data/mask, IUV images under data/images
+2. [preparedata](#Preparedata) and put mask under data/mask, IUV images under data/images
 3. run
 ```
 python predict.py
