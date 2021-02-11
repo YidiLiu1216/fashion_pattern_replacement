@@ -13,9 +13,9 @@ Table of Contents
 Introduction
 -------------
 <figure class="third">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
-    <img src="http://zzz.jpg">
+    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/78.jpg">
+    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/pattern_3.png">
+    <img src="https://github.com/aircat1216/fashion_pattern_replacement/blob/main/data/demo_image/78_95.jpg">
 </figure>
 Installation
 -------------
