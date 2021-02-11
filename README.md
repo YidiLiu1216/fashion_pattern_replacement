@@ -28,6 +28,7 @@ Installation
 - Tensorflow-gpu
 - various standard Python packages in requirement.txt
 - Pillow
+
 Notes:
 - The program was tested on tensorflow-gpu 2.3.1 with cuda 10.1 and cudnn 7.6
 - The program requires your opencv-contrib-python and opencv-python in the same version 
