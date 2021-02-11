@@ -12,9 +12,7 @@ Table of Contents
 
 Introduction
 -------------
-![input](/data/demo_image/78.jpg)
-![pattern](/data/demo_image/78.jpg)
-![result](/data/demo_image/78.jpg)
+![input](/data/demo_image/78.jpg)![pattern](/data/demo_image/pattern_3.png)![result](/data/demo_image/78_95.png)
 
 Installation
 -------------
